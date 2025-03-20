@@ -1,0 +1,51 @@
+.fondo{
+    background-image: url("./img/d5ac537c60b2c5fe1e3017dccb1de398.jpg");
+    position: relative;
+     height: 200px;
+    background-attachment: fixed;
+    padding: 10%;
+    color: rgb(248, 248, 248);
+}
+.menu{
+    background-color: #eb91cd
+}
+ .fuente  {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  }
+  .boton{
+    background-color: #f061a8;
+    border-radius: 25px;
+    height: 50px;
+  }
+  .titulo{
+    font-size: 150px;
+  }
+  .info{
+    display: flex;
+    background-image: url("./img/7bb902a285e848de24571653f494510f.jpg");
+    position: relative;
+     height: 400px;
+     width: 100%;
+     padding: 10%;
+    color: rgb(238, 93, 161);
+    justify-content: center;
+    font-size: 150px;
+    
+
+
+    
+  
+
+  }
+  .colorfooter{
+    background-color: #fd9bcc;
+  }
+ 
+ 
+
+
+
+  
